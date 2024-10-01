@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### I am Golang - PostgreSQL -  Backend Developer
 
-I am **Girish Bhutiya** `10+` years of industry experience. I started my career as an **Android Developer** in `2011`, and in 2014, I switched to WordPress and Shopify developer. 
+My Name is **Girish Bhutiya** with `10+` years of industry experience. I started my career as an **Android Developer** in `2011`, and in 2014, I switched to WordPress and Shopify developer. 
 
 I started learning Golang in 2022 and started my career as a `Backend Developer`. Recently, as a Golang Developer, I have worked on the skills below. 
  - Implement Stripe apis
